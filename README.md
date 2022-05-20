@@ -7,19 +7,19 @@ Thanks for stopping by! Here you will find various projects I have worked on ove
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=glennanj1&show_icons=true&theme=radical)
 
 
-👯‍♀️ I'm looking to collaborate on React Projects
+👯‍♀️ I'm looking to collaborate on Next JS, MongoDB & Infrastructure
 
-🤔 I'm looking for help with NGINX, ACME certs, DNS
+🤔 I'm looking for help with Payment Processing, Sessions, NGINX
 
-💬 Ask me about Managing Servers or Software
+💬 Ask me about Managing Servers (Game, Email or Web) or Software 
 
-📫 How to reach me Glennan.dev@gmail.com
+📫 How to reach me john@glennan-cloud.com
 
-⚡️ Fun fact I like go Skiing
+⚡️ Fun fact I like go Skiing & Hiking
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Next, Blitz, PostgreSQL, MongoDB, Express, Docker, AWS, GCP
+Javascript, HTML, CSS, Next, PostgreSQL, MongoDB, Express, Docker, AWS (Route 53, S3, Cloudfront), GCP(Cloud Computer, Cloud Run), Docker (New), SMTP, Next-Auth
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://glennan.netlify.app/)
