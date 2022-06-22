@@ -1,6 +1,6 @@
 # Hello & Welcome! 
 
-Thanks for stopping by! Here you will find various projects I have worked on over the past couple of years. I'm currently a software enigneer over at Infosys Limited. In my spare time I like to build personal projects, cloud infrastructure, manage servers and dable in network engineering. I currently run a multitude of domains with web apps and websites with three live production sites for real buisnesses. 
+Thanks for stopping by! Here you will find various projects I have worked on over the past couple of years. I'm currently a Salesforce Developer at Cigna. In my spare time I like to build personal projects, cloud infrastructure, manage servers and dable in network engineering. I currently run a multitude of domains with web apps and websites with three live production sites for real buisnesses. 
 
 # Github Stats
 
